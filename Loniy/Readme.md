@@ -1,10 +1,10 @@
-# 🌟 DexHub by Loniy
+# DexHub by Loniy
 
 A powerful script hub for Roblox — currently supporting **Rivals** with advanced features.
 
 ---
 
-## 🎮 Supported Games & Features
+## Supported Games & Features
 
 | Game   | Features                                  |
 |--------|-------------------------------------------|
@@ -12,13 +12,13 @@ A powerful script hub for Roblox — currently supporting **Rivals** with advanc
 
 ---
 
-## 🛠 Version
+## Version
 
 **V1.4** – *Updated: 2025/07/18*
 
 ---
 
-## 📜 Script (Copy & Paste)
+## Script (Copy & Paste)
 
 ```lua
 getgenv().Key = "" -- Enter your Key here
