@@ -32,9 +32,15 @@ getgenv().Settings = {
 loadstring(game:HttpGet("https://raw.github.com/RequideSync/Project/main/Loniy/Rivals.lua"))()
 ```
 
-## 🎨 Themes
+## Themes
 
 | Default   | AmberGlow | Amethyst | Bloom   |
 |-----------|-----------|----------|---------|
 | DarkBlue  | Green     | Light    | Ocean   |
 | Serenity  | -         | -        | -       |
+
+---
+
+## Key System
+
+[Get Key](https://your-key-site.example.com)
