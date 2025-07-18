@@ -34,7 +34,6 @@ loadstring(game:HttpGet("https://raw.github.com/RequideSync/Project/main/Loniy/R
 
 ## Theme
 | Name   |
-|--------|
 | Default |
 | AmberGlow |
 | Amethyst |
