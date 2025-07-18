@@ -24,9 +24,23 @@ A powerful script hub for Roblox — currently supporting **Rivals** with advanc
 getgenv().Key = "" -- Enter your Key here
 
 getgenv().Settings = {
-    Theme = "Default",    -- Rayfield theme (Default, Amber Glow, etc. Theme: https://docs.sirius.menu/rayfield/configuration/themes )
+    Theme = "Default",    -- Rayfield theme (Default, Amber Glow, etc. )
     SaveConfig = true,    -- Save your configuration
     LoadConfig = true     -- Auto-load saved configuration
 }
 
 loadstring(game:HttpGet("https://raw.github.com/RequideSync/Project/main/Loniy/Rivals.lua"))()
+```
+
+## Theme
+| Name   |
+|--------|
+| Default |
+| AmberGlow |
+| Amethyst |
+| Bloom |
+| DarkBlue |
+| Green |
+| Light |
+| Ocean |
+| Serenity |
