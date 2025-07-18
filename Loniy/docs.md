@@ -43,4 +43,5 @@ loadstring(game:HttpGet("https://raw.github.com/RequideSync/Project/main/Loniy/R
 
 ## Key System
 
-[Get Key](https://your-key-site.example.com)
+[Get Key](https://lootdest.org/s?TevIl5zE)
+
