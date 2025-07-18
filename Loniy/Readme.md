@@ -24,7 +24,7 @@ A powerful script hub for Roblox — currently supporting **Rivals** with advanc
 getgenv().Key = "" -- Enter your Key here
 
 getgenv().Settings = {
-    Theme = "Default",    -- Rayfield theme (Default, Amber Glow, Amethyst, Bloom, Dark Blue Green, Light,  Ocean, Serenity,)
+    Theme = "Default",    -- Rayfield theme (Default, Amber Glow, etc. Theme: https://docs.sirius.menu/rayfield/configuration/themes )
     SaveConfig = true,    -- Save your configuration
     LoadConfig = true     -- Auto-load saved configuration
 }
